@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:44428",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "C:\\Users\\maria\\source\\repos\\UpMeet Group Project\\csharp-group-lab-2-upmeet-events-sys\\ClientApp\\",
+"MaxTimeoutInSeconds": "120"
+}
+}
